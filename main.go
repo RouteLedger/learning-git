@@ -1,5 +1,5 @@
 # This day's model
 package main
-# changed
+# changed - and added some here also
 
 func main() {}
